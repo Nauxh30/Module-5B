@@ -1,6 +1,5 @@
 # 🧪 Pandas Program: Join Two DataFrames Along Rows
-## NAME :RAJA GOPAL V
-## REG NO: 212223240134
+
 ## 🎯 AIM
 
 To write a Python program using Pandas to **join two DataFrames along rows** (row-wise concatenation) and assign all data to a new DataFrame.
